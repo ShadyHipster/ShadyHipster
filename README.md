@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-Software developer student with 3+ years of coding experiance, passionate about building smart, efficient solutions. Always exploring the intersection of code and creativity to push the boundaries of innovation.
+Working student with 3+ years of coding experiance, passionate about building smart, efficient solutions. Always exploring the intersection of code and creativity to push the boundaries of innovation.
 
 * 🌍  I'm based in Fort Lauderdale, Florida
 * ✉️  You can contact me at [jakeparis175@gmail.com](mailto:jakeparis175@gmail.com)
@@ -13,7 +13,7 @@ Software developer student with 3+ years of coding experiance, passionate about 
 * ⚡  I am a gym rat outside of the office.
 
 <a href="https://www.github.com/ShadyHipster" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/ShadyHipster?logo=github&style=for-the-badge&color=ffffff&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/ShadyHipster?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a>
 
 ### Skills
 
@@ -31,13 +31,13 @@ src="https://img.shields.io/github/followers/ShadyHipster?logo=github&style=for-
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/ShadyHipster"><img src="https://github-readme-stats.vercel.app/api?username=ShadyHipster&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="ShadyHipster's GitHub stats" /></a>
+<a href="http://www.github.com/ShadyHipster"><img src="https://github-readme-stats.vercel.app/api?username=ShadyHipster&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="ShadyHipster's GitHub stats" /></a>
 
 <a href="http://www.github.com/ShadyHipster"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ShadyHipster&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/ShadyHipster"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ShadyHipster&bg_color=1c1917&color=ffffff&line=ffffff&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/ShadyHipster"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ShadyHipster&bg_color=1c1917&color=ffffff&line=ef4444&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/ShadyHipster" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadyHipster&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/ShadyHipster" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadyHipster&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
