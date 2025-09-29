@@ -8,7 +8,7 @@ Working student with 3+ years of coding experiance, passionate about building sm
 
 * 🌍  I'm based in Fort Lauderdale, Florida
 * ✉️  You can contact me at [jakeparis175@gmail.com](mailto:jakeparis175@gmail.com)
-* 🧠  I'm learning SQL
+* 🧠  I'm currently learning Streamlit 🔥
 * 🤝  I'm open to collaborating on Big Projects
 * ⚡  I am a gym rat outside of the office.
 
